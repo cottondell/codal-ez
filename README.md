@@ -1,3 +1,5 @@
+**WARNING:** This has many issue right now! I will fix them when I get the time :D
+
 ### Setup
 1. Set BUILD_SCRIPT_WSL in "codal.bat" to path to this folder as WSL sees it.
    - e.g. Replace "C:/" with "/mnt/c/".
